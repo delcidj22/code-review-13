@@ -1,6 +1,6 @@
 # Welcome to our Brewery! 
 
-<img src= "./src/img/CodeReviewDiagram.jpg">
+<img src= "./src/img/CodeReviewDiagram.png">
 
 
 # Getting Started with Create React App
