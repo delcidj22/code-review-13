@@ -1,5 +1,5 @@
 # Welcome to our Brewery! 
-
+In this project, a user can add all of their favorite beers, as well as look through a list of others favorite list. A user can also delete and update any beer on the list. 
 <img src= "./src/img/CodeReviewDiagram.png">
 
 
