@@ -14,6 +14,7 @@ function KegList(props) {
           view={keg.view}
           brand={keg.brand}
           price={keg.price}
+          pints={keg.pints}
           id={keg.id}
           key={keg.id}/>
       )}
